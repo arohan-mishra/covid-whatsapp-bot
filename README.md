@@ -1,2 +1,2 @@
-# covid-whatsapp-bot
+# covid-saviour
 covid rada bot
