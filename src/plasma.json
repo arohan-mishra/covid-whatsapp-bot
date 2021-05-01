@@ -1,0 +1,16 @@
+[
+  {
+    "name": "rushikesh",
+    "password": "123456",
+    "contact": "7276227324",
+    "city": "Pune",
+    "location": "street 14"
+  },
+  {
+    "name": "daksh",
+    "password": "007",
+    "contact": "1234567890",
+    "city": "Delhi",
+    "location": "abc street"
+  }
+]
